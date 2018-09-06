@@ -1,0 +1,133 @@
+input[type=text]{
+	background-color: #ADD8E6;
+	font-weight: bold;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 3px;
+    border: 1px solid rgba(204, 204, 204, 0.199);
+    border-radius: 4px;
+    resize: vertical;
+
+}
+
+body {
+    background-image: url("https://www.impacta.edu.br/uploads/pages/2018/05/pos-e-mba-1527018853.png");
+    background-size: cover;
+    height: 900px;
+    position: relative;
+    color: white;
+    border: 1px solid rgba(204, 204, 204, 0.199);
+    box-sizing: border-box;
+    
+}
+fieldset{
+    display: block;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 0,27em;
+    padding-bottom: 0,27em;
+    padding-left: 20em;
+    padding-right: 20em;
+    border: 0,37px groove (internal value);
+    border-radius: 5px;
+    border-width: 0,27px;
+
+}
+
+input[type=number]{
+	background-color: #ADD8E6;
+	font-weight: bold;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 3px;
+    border: 1px solid rgba(204, 204, 204, 0.199);
+    border-radius: 4px;
+    resize: vertical;
+    
+}
+
+input[type=number]:focus{
+    border: 1px solid #555;
+    background-color: white;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 3px;
+    border-radius: 4px;
+    resize: vertical;
+}
+
+.sel{
+    background-color: #ADD8E6;
+    
+}
+
+input[type=adress]{
+	background-color: #ADD8E6;
+	font-weight: bold;
+    padding: 6px 20px;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 3px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+}
+
+input[type=adress]:focus{
+
+border: 1px solid #555;
+background-color: white;
+box-sizing: border-box;
+width: 100%;
+padding: 3px;
+border-radius: 4px;
+resize: vertical;
+}
+
+input[type=text]:focus{
+
+border: 1px solid #555;
+background-color: white;
+box-sizing: border-box;
+width: 100%;
+padding: 3px;
+border-radius: 4px;
+resize: vertical;
+}
+
+input[type=textarea]{
+	background-color: #ADD8E6;
+    font-weight: bold;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 3px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+
+}
+
+
+input[type=textarea]:focus{
+
+border: 1px solid #555;
+background-color: white;
+box-sizing: border-box;
+width: 100%;
+padding: 3px;
+border-radius: 4px;
+resize: vertical;
+}
+
+#italic{
+    font-style: oblique;
+    
+
+}
+
+.but{
+	background-color: rgba(0, 0, 0, 0.5);
+	color: white;
+    border: 2px solid black;
+    
+}
